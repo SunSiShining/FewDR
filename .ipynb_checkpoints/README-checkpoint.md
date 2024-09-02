@@ -1,6 +1,6 @@
 # FewDR
 
-The repository is about our PRICAI 2024 work **["Are Dense Retrieval Models Few-Shot Learners?"]**. 
+The repository is about our PRICAI 2024 work **["Are Dense Retrieval Models Few-Shot Learners?"]()**. 
 
 
 ## Results
@@ -27,7 +27,7 @@ The files of the FewDR dataset are as follows:
 |[tot-qid_query_answer_positive.jsonl](data/tot-qid_query_answer_positive.jsonl)|All queries, answers, and positive passages|
 |[wikipedia-corpus-index.tar.gz](https://thunlp.oss-cn-qingdao.aliyuncs.com/PaperData/EMNLP2022/ANCE-Tele/wikipedia-corpus-index.tar.gz)|Wikipedia corpus|
 
-``tot-qid_query_answer_positive.jsonl'' is the whole dataset information. One samples per line, formatted as follows:
+[tot-qid_query_answer_positive.jsonl](data/tot-qid_query_answer_positive.jsonl) contains the entire dataset information. One samples per line, formatted as follows:
 ```
 "class": "P17",
 "qid": "P17_97",
@@ -52,7 +52,7 @@ The statistics of the FewDR dataset are as follows:
 |Base| 30 |20,668 |10,341 |10,327 |21,015,324|
 |Novel |30 |20,752 |10,385 |10,367|21,015,324|
 
-The splitation strategy is written in the ``split-stg.json'' file:
+The splitation strategy is written in the [split-stg.json](data/split-stg.json) file:
 ```
 {
 

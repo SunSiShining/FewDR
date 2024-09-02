@@ -1,0 +1,60 @@
+P17	which country is <h> located in
+P19	where was [e] born
+P20	where did [e] die
+P22	who is the father of <h>
+P25	who is <h>'s mother
+P26	who is <h> married to
+P27	what is the nationality of <h>
+P36	what is the capital of [e]
+P39	what position does <h> hold
+P40	who is the child of <h>
+P57	who is the director of <h>
+P58	who is the screenwriter of <h>
+P59	what constellation does <h> belong to
+P69	where was [e] educated
+P84	who is the architect of <h>
+P86	who is the composer of <h>
+P102	what political party is <h> a member of
+P106	what kind of work does <h> do
+P112	who founded [e]
+P123	who is the publisher of <h>
+P127	who owns <h>
+P131	where is <h> located
+P136	what is the genre of <h>
+P140	what is the religion of <h>
+P150	in which administrative region is <t> located
+P159	where is the headquarter of <h>
+P170	who was [e] created by
+P175	who performed [e]
+P176	who is the manufacturer of <h>
+P177	what does <h> crosses over
+P178	who is the developer of <h>
+P206	in which body of water is <h> located
+P241	which military branch does <h> belong to
+P264	what is the record label of <h>
+P355	whose subsidiary is <t>
+P364	what is the original language of <h>
+P400	what is the platform of <h>
+P403	where is the mouth of <h>
+P407	what is the language of <h>
+P410	what is the military rank of <h>
+P412	what is <h>'s voice type
+P413	what position does <h> play
+P449	on which network does <h> premiere
+P460	what are other names for <t>
+P463	which organization is <h> a member of
+P495	which country was <h> created in
+P551	where does <h> reside
+P641	what sport does <h> play
+P740	where was <h> founded
+P750	who is the distributor of <h>
+P800	what is <h> famous for
+P921	what is the main topic of <h>
+P931	where does <h> serve
+P1303	what instrument does <h> play
+P1408	where does <h> broadcast to
+P1411	what nominations did <h> receive
+P1877	who is the original author of <h>
+P2094	what is the competition class of <h>
+P3373	who is the sibling of <h>
+P4552	which range does <h> belong to
